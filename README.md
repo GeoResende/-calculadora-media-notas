@@ -3,4 +3,4 @@ Projeto de uma calculadora onde é feita a média das notas de um determinado al
 
 Esse projeto é de estudos baseado na aula 01 da imersãodev da alura.
 
-📌Projeto criado no CodePen.io. Original URL: https://codepen.io/edupraseres/pen/oNwpqXm.
+📌Projeto criado no CodePen.io. Original URL: https://codepen.io/GeoAResende/pen/jOzrrNK.
